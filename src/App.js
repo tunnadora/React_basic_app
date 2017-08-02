@@ -6,7 +6,6 @@ class App extends React.Component
   {
     super();
     this.state={ txt : "this is state text ." , count : 100}
-
   }
 
   update(e)
